@@ -1,6 +1,6 @@
 ### Hi there, my name is Muh. Nasrul, nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 - I’m currently learning ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=4479A1)&nbsp;
-- looking to collaborate on with your
+- looking to collaborate on with you 🤩
 - How to reach me 
 [![Gmail: Muh. Nasrul](https://img.shields.io/badge/-nasrulmuhammad748@gmail.com-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfrDgzWPFFgSKDLmBlPGRmCRXMQVTgqZDWJrxHDMJkSBGGCGnnGJhRKjrbzjJmFqnZFg)
 
