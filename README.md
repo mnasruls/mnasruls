@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @nasrul0807
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, name is Yoga S Devanada, nice to meet ya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+I’m currently learning ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=4479A1)&nbsp;
+looking to collaborate on with your
+How to reach me 
+[![Gmail: Muh. Nasrul](https://img.shields.io/badge/-nasrulmuhammad748@gmail.com-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfrDgzWPFFgSKDLmBlPGRmCRXMQVTgqZDWJrxHDMJkSBGGCGnnGJhRKjrbzjJmFqnZFg)
+
+<h3 align="left">:gear: GitHub Analytics:</h3>
+<div align="center">
+  <a href="https://github.com/devanada">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mnasruls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnasruls&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
 
 <!---
 nasrul0807/nasrul0807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
