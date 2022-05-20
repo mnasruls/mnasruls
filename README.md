@@ -3,6 +3,7 @@
 - Looking to collaborate with you 🤩
 - You can reach me on my email 
 [![Gmail: Muh. Nasrul](https://img.shields.io/badge/-nasrulmuhammad748@gmail.com-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfrDgzWPFFgSKDLmBlPGRmCRXMQVTgqZDWJrxHDMJkSBGGCGnnGJhRKjrbzjJmFqnZFg)
+ and my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-nasrul-1693721ba/)
 
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
